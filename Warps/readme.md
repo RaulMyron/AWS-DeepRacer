@@ -2,3 +2,8 @@
 
 ![alt text](image.png)
 
+```python3
+source venv/bin/activate
+jupyter lab
+deactivate
+```
